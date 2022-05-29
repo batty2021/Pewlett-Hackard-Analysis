@@ -2,8 +2,8 @@
 Create entity relationship diagrams, perform data modeling &amp; complete analysis on an employee SQL techniques
 
 # Software 
-- Python 3.7.6, JupyterLab 2.26
 - PostgreSQL 11, Pgadmin 4.20
+- ERD(entity relationship diagrams)
 
 # Overview of the analysis:
 
@@ -28,6 +28,6 @@ Create entity relationship diagrams, perform data modeling &amp; complete analys
 ![png](https://user-images.githubusercontent.com/77947860/163009699-524c3a70-89be-40fc-8e1b-c15e90a4c637.png)
 
 
-# Summury
+# Summary:
 
    According to my finding analysis Pewlett Hackard is potentially facing over 90,000 vacant positions company wide. Taking into consideration the low amount of employees who are eligible for mentorship, Pewlett hackard will face a great deficit once a majority of eligible employees retire.
