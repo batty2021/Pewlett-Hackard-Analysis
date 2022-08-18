@@ -7,10 +7,16 @@ Create entity relationship diagrams, perform data modeling &amp; complete analys
 
 # Overview of the analysis:
 
-# Purpose;
+# Purpose:
  To perform analysis on a large-scale of employee data for a company with over 300,000 employees. The company Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assistance wrangling the data that will help translate who may be and is eligible for retirement.
+ would be able to;
+ - Design an ERD that will apply to the data.
+- Create and use a SQL database.
+- Import and export large CSV datasets into pgAdmin.
+- Practice using different joins to create new tables in pgAdmin.
+- Write basic- to intermediate-level SQL statements
 
-# Results;
+# Results:
 # Employees Eligible for Retirement
 
 - Of the 300,024 employees within the company, 90,398 (30.13%) are eligible for retirement.
